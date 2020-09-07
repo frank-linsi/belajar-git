@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<meta charset-'utf-8'>
+			<title>home</title>
+	</head>
+	<body>
+		<h1>ini adalah halaman home</h1>
+		<p>belajar git : remote repository</p>
+	</body>
+</html>
